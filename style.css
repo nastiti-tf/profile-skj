@@ -1,0 +1,37 @@
+body {
+    background-color: #1B1B1B;
+}
+
+.name {
+    font-family: Bebas Neue;
+    font-size: 80px;
+    font-weight: 100;
+    color: #FFFFFF;
+    margin-top: 350px;
+    margin-left: 800px; 
+    letter-spacing: 0.1cm;
+}
+
+.major {
+    font-family: Urbanist;
+    font-size: 30px;
+    font-weight: 100;
+    color: #FFFFFF;
+    margin-top: -70px;
+    margin-left: 800px; 
+}
+
+.about {
+    font-family: Urbanist;
+    font-size: 25px;
+    font-weight: 300;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-left: 800px; 
+}
+
+img {
+    width: 450px;
+    margin-top: -400px;
+    margin-left: 230px;
+}
