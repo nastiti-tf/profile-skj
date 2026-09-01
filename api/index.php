@@ -14,6 +14,6 @@
         I choose specialization in <b><b>AI Specialist, Software Development,</b></b>  or <br> <b><b>Cloud Engineer.</b></b> 
         I also interested in <b><b>Data Science</b></b> and <b><b>Machine Learning.</b></b>
     </p>
-    <img src="../image/pfp.png" alt="">
+    <img src="/image/pfp.png" alt="">
 </body>
 </html>
